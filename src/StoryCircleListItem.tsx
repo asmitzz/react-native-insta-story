@@ -122,5 +122,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     alignItems: 'center',
     fontSize: 11,
+    color: 'black'
   },
 });

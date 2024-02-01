@@ -106,6 +106,7 @@ const styles = StyleSheet.create({
   container: {
     marginVertical: 5,
     marginRight: 10,
+    padding: 4
   },
   avatarWrapper: {
     borderWidth: 2,
